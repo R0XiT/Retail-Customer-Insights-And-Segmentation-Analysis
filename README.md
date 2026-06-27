@@ -4,6 +4,13 @@ An end-to-end data analytics project analyzing customer shopping behavior across
 
 ---
 
+
+## Dataset
+
+Public retail transactions dataset sourced from Kaggle — 3,900 rows, 18 columns covering customer demographics, purchase details, and shopping behaviour.
+
+---
+
 ## Tools & Technologies
 
 - **Python** — Data cleaning, EDA, and feature engineering
@@ -44,13 +51,3 @@ An end-to-end data analytics project analyzing customer shopping behavior across
 - Fall is the strongest season; Summer the weakest
 
 ---
-
-## Dataset
-
-Public retail transactions dataset sourced from Kaggle — 3,900 rows, 18 columns covering customer demographics, purchase details, and shopping behaviour.
-
----
-
-## Dashboard Preview
-
-> Built in Power BI with KPI cards, donut charts, bar charts, and dynamic slicers for Gender, Category, Shipping Type, and Subscription Status.
